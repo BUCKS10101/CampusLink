@@ -1,6 +1,6 @@
 # CampusLink
 
-/*
+
 Problem
 
 It’s 11 PM, and hunger strikes.
@@ -36,4 +36,4 @@ Cheaper than outside apps (no crazy delivery fees).
 Campus-only → safe, fast, and relatable.
 
 Built for students → helping each other survive hostel life.
-*/
+
